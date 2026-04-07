@@ -15,3 +15,4 @@ tqdm
 psutil
 tokenizers
 scikit-learn
+optimum-intel[openvino]>=1.18.0
